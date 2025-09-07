@@ -15,5 +15,5 @@ Workflow:
 
 <img width="1859" height="827" alt="image" src="https://github.com/user-attachments/assets/cec3b530-b20d-4a32-a1a2-cf8af51d1ae9" />
 
-🎥 Tutorial Reference
-This project was created by following the tutorial videos by [Krish Naik](https://www.udemy.com/user/krish-naik/) for learning purposes.
+🎥 Tutorial Reference : 
+This project has been created by following the tutorial videos of [Krish Naik](https://www.udemy.com/user/krish-naik/) for learning purposes.
